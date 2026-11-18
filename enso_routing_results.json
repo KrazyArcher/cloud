@@ -1,0 +1,14 @@
+{
+    "least_loaded_routing": {
+        "p99_ttft_ms": 298.17,
+        "p50_ttft_ms": 199.58,
+        "cache_reuse_percent": 24.78,
+        "gpu_utilization_percent": 68.47
+    },
+    "cache_aware_routing": {
+        "p99_ttft_ms": 290.49,
+        "p50_ttft_ms": 32.8,
+        "cache_reuse_percent": 84.22,
+        "gpu_utilization_percent": 93.02
+    }
+}
