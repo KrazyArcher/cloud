@@ -226,3 +226,7 @@ Benchmarks for this server live in
 ## Licence
 
 Apache-2.0 OR MIT, at your option. See [LICENSE](LICENSE).
+
+## Enso Prompt-Locality Routing Benchmark
+Run `python benchmark_enso.py` to validate prompt-locality routing metrics (HIP-1345).
+
